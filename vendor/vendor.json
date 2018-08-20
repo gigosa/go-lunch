@@ -1,3 +1,6 @@
 {
-	"rootPath": "go-lunch"
+    "rootPath": "go-lunch",
+    "heroku": {
+        "goVersion": "go1.10"
+    }
 }
